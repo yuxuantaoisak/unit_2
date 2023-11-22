@@ -1,3 +1,3 @@
-##Solution##
+## Solution ##
 
-##Proof of work
+## Proof of work##
