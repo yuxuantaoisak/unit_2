@@ -33,15 +33,23 @@ print(sample)
 A(A+B) = A
 
 A = 0, B = 0:
+
 0(0+0) = 0 = A
 
+
 A = 0, B = 1:
+
 0(0+1) = 0 = A
 
+
 A = 1, B = 0:
+
 1(1+0) = 1 = A
 
+
 A = 1, B = 1:
+
 1(1+1) = 1 = A
+
 
 Thus, A(A+B) is always A.
