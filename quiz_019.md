@@ -32,3 +32,18 @@ print(table)
 <img width="313" alt="Screenshot 2023-11-22 at 22 34 48" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/565b12f2-b49f-403a-b68f-b9e65de61172">
 
 ## Part B ##
+
+\begin{table}[]
+\begin{tabular}{lllllllll}
+S₁ & S₂ & S₃ & S₁S₂ & not S₁ & S₃(not S₁) & S₂+S₃(not S₁) & (S₂+S₃(not S₁))S₁ & S₁S₂+(S₂+S₃(not S₁))S₁ \\
+0  & 0  & 0  & 0    & 1      & 0          & 0             & 0                 & 0                      \\
+0  & 0  & 1  & 0    & 1      & 1          & 1             & 0                 & 0                      \\
+0  & 1  & 0  & 0    & 1      & 0          & 1             & 0                 & 0                      \\
+0  & 1  & 1  & 0    & 1      & 1          & 1             & 0                 & 0                      \\
+1  & 0  & 0  & 0    & 0      & 0          & 0             & 0                 & 0                      \\
+1  & 0  & 1  & 0    & 0      & 0          & 0             & 0                 & 0                      \\
+1  & 1  & 0  & 1    & 0      & 0          & 1             & 1                 & 1                      \\
+1  & 1  & 1  & 1    & 0      & 0          & 1             & 1                 & 1                     
+\end{tabular}
+\end{table}
+
