@@ -50,6 +50,7 @@ print(table)
 
 ### Circuit ###
 
-![3976](https://github.com/yuxuantaoisak/unit_2/assets/144768397/b9c4a122-4ff3-4f10-92d3-aead7a6bdd02)
+![377120820_1102585457791475_1393119601721876254_n](https://github.com/yuxuantaoisak/unit_2/assets/144768397/ce4fb174-df36-491f-9dfc-1c8c6b1c32ad)
+
 
 
