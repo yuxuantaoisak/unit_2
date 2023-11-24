@@ -39,3 +39,11 @@ plt.show()
 <img width="614" alt="Screenshot 2023-11-22 at 22 52 20" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/813b0067-0470-4454-b04c-a3ddeabbb661">
 
 ## Part B ##
+
+
+FFA5------>decimal
+
+
+15 * 16³+ 15 * 16² + 10 * 16¹ + 5 * 16⁰ = 65445
+
+
