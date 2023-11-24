@@ -33,6 +33,7 @@ print(table)
 
 ## Part B ##
 
+
 ### Truth table ###
 
 | Z | W | Y | not W | ZW | Y(not W) | Z XOR Y(not W) | ZW XOR (Z XOR Y(not W)) |
@@ -49,5 +50,6 @@ print(table)
 
 ### Circuit ###
 
-![IMG_3976](https://github.com/yuxuantaoisak/unit_2/assets/144768397/2bc191f5-891b-4c28-b4ec-965dbcf01dc4)
+![3976](https://github.com/yuxuantaoisak/unit_2/assets/144768397/b9c4a122-4ff3-4f10-92d3-aead7a6bdd02)
+
 
