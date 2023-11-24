@@ -49,6 +49,5 @@ print(table)
 
 ### Circuit ###
 
-![IMG_3976](https://github.com/yuxuantaoisak/unit_2/assets/144768397/2b0e76e9-4f3e-4400-8021-f20be3e23e2d)
-
+![IMG_3976](https://github.com/yuxuantaoisak/unit_2/assets/144768397/2bc191f5-891b-4c28-b4ec-965dbcf01dc4)
 
