@@ -48,3 +48,4 @@ print(table)
 
 ### Boolean circuit ###
 
+![1285](https://github.com/yuxuantaoisak/unit_2/assets/144768397/effc1030-ac97-45e5-aa1c-7efa97b7006e)
