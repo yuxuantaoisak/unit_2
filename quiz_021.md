@@ -43,3 +43,12 @@ plt.show()
 <img width="894" alt="Screenshot 2023-11-22 at 22 44 33" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/f945ad59-0889-439c-9675-e16cf8e822e5">
 
 ## Part B ##
+
+### Truth table ###
+
+| A | B | A XOR B | A(A XOR B) |
+|---|---|---------|------------|
+| 0 | 0 | 0       | 0          |
+| 0 | 1 | 1       | 0          |
+| 1 | 0 | 1       | 1          |
+| 1 | 1 | 0       | 0          |
