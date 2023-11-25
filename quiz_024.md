@@ -42,3 +42,11 @@ plt.show()
 <img width="620" alt="Screenshot 2023-11-22 at 22 54 50" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/c1899543-add7-4352-9255-6876a8eeb5f1">
 
 ## Part B ##
+
+e6e627
+
+e6 = 14 * 16¹ + 6 * 16⁰ = 230
+
+27 = 2 * 16¹ + 7 * 16⁰ = 39
+
+rgb color = (230, 230, 39)
