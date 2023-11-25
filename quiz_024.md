@@ -39,7 +39,7 @@ plt.show()
 
 ## Proof of work ##
 
-<img width="620" alt="Screenshot 2023-11-22 at 22 54 50" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/c1899543-add7-4352-9255-6876a8eeb5f1">
+<img width="593" alt="Screenshot 2023-11-25 at 13 56 57" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/9b280e59-baaf-4d02-888a-289380688013">
 
 ## Part B ##
 
