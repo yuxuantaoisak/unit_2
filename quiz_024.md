@@ -41,7 +41,6 @@ plt.show()
 
 <img width="593" alt="Screenshot 2023-11-25 at 13 56 57" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/9b280e59-baaf-4d02-888a-289380688013">
 
-
 <img width="342" alt="Screenshot 2023-11-25 at 14 40 13" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/503f0a28-a092-474b-a301-695d64671749">
 
 ## Part B ##
