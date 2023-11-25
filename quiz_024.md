@@ -18,8 +18,8 @@ for i in range(0, len(h)):
     time += 10
 
 plt.scatter(t, h, color="r")
-plt.xlabel("Time")
-plt.ylabel("Humidity")
+plt.xlabel("Time(minutes)")
+plt.ylabel("Humidity(%)")
 plt.title("The humidity in ASAMA 22")
 
 m, b = np.polyfit(t, h, 1)
