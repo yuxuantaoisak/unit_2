@@ -18,7 +18,6 @@ def produce(n: int, m: int, s: int):
     for i in range(n):
         x_rnd = random.randint(1, 100)
         y_rnd = x_rnd**(0.5*((m/s)**2))
-        # should be positive 0.5 if the previous one is correct
         y.append(y_rnd)
         x.append(x_rnd)
     return x, y
