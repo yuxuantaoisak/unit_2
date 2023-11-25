@@ -23,7 +23,7 @@ def produce(n: int, m: int, s: int):
     return x, y
 
 
-data_y, data_x = produce(n=5, m=3, s=2)
+data_x, data_y = produce(n=5, m=3, s=2)
 
 fig = plt.figure(figsize=(9, 7))
 
@@ -39,7 +39,8 @@ plt.show()
 
 ## Proof of work ##
 
-<img width="894" alt="Screenshot 2023-11-22 at 22 44 33" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/f945ad59-0889-439c-9675-e16cf8e822e5">
+<img width="855" alt="Screenshot 2023-11-25 at 13 42 59" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/0320a650-893e-4a5d-b09c-9894b5866c46">
+
 
 ## Part B ##
 
