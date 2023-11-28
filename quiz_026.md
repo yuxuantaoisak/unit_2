@@ -35,7 +35,8 @@ plt.show()
 
 ## Proof of work ##
 
-![Screenshot 2023-11-28 at 22 45 14](https://github.com/yuxuantaoisak/unit_2/assets/144768397/fa4f7bd9-a2d3-4ccc-a823-9e15fd3f4d82)
+![Uploading Screenshot 2023-11-29 at 8.28.12.png…]()
+
 
 ## Part B ##
 
