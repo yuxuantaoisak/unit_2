@@ -35,6 +35,12 @@ plt.show()
 
 ## Proof of work ##
 
-<img width="588" alt="Screenshot 2023-11-23 at 8 48 44" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/e5c0d24d-1f29-4332-9b41-fc1324b0cf87">
+![Screenshot 2023-11-28 at 22 45 14](https://github.com/yuxuantaoisak/unit_2/assets/144768397/fa4f7bd9-a2d3-4ccc-a823-9e15fd3f4d82)
 
 ## Part B ##
+
+red = 10 = 0A
+green = 255 = FF
+blue = 235 = EB
+
+RGB = #0AFFEB
