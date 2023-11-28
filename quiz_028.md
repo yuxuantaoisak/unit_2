@@ -24,4 +24,10 @@ print(invert(b))
 
 ## Part B ##
 
-![Screenshot 2023-11-28 at 23 24 01 (2)](https://github.com/yuxuantaoisak/unit_2/assets/144768397/6dc66918-98b6-4307-868b-8bb63d5c213d)
+1011 = 11
+
+1101 = 13
+
+11 + 13 = 24
+
+24(10) = 11000(2)
