@@ -35,7 +35,7 @@ plt.show()
 
 ## Proof of work ##
 
-![Uploading Screenshot 2023-11-29 at 8.28.12.png…]()
+<img width="1470" alt="Screenshot 2023-11-29 at 8 30 11" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/b55c6e00-e655-49d1-a3d7-0950ec8bc922">
 
 
 ## Part B ##
