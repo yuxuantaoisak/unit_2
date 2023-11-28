@@ -1,4 +1,4 @@
-![Screenshot 2023-11-28 at 23 06 55 (2)](https://github.com/yuxuantaoisak/unit_2/assets/144768397/cc9f3cea-8ab0-46d2-8b8c-fd30bfc41fe1)## Solution ##
+## Solution ##
 
 ```.py
 
