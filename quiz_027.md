@@ -25,7 +25,6 @@ print(case_1(c, d))
 
 ## Proof of work ##
 
-![Screenshot 2023-11-28 at 23 07 24 (2)](https://github.com/yuxuantaoisak/unit_2/assets/144768397/4afe962d-49a2-42b7-89bc-dc0e4447d008)
 <img width="1470" alt="Screenshot 2023-11-28 at 23 07 24" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/4c05fd4a-cae7-4c77-89d6-62e4d8788663">
 
 
