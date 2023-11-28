@@ -40,7 +40,9 @@ plt.show()
 ## Part B ##
 
 red = 10 = 0A
+
 green = 255 = FF
+
 blue = 235 = EB
 
 RGB = #0AFFEB
