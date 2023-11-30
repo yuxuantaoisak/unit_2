@@ -42,3 +42,30 @@ print(b)
 <img width="441" alt="Screenshot 2023-11-23 at 9 01 53" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/f1a8d4be-31da-4336-bdcc-d4a0c1934d81">
 
 ## Part B ##
+
+### Code ###
+
+```.py
+
+import matplotlib.pyplot as plt
+import math
+
+x = []
+y = []
+
+
+for i in range(1000):
+    new_x = i / 1000
+    new_y = math.sin(2*math.pi*new_x)
+    x.append(new_x)
+    y.append(new_y)
+
+plt.plot(x, y)
+plt.xlabel("x")
+plt.ylabel("$sin(2*pi*x)$")
+plt.title("$y=sin(2*pi*x)$")
+plt.show()
+
+```
+
+<img width="1470" alt="Screenshot 2023-11-30 at 9 41 10" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/ee1e7440-6e10-40f9-b618-09272ca8153d">
