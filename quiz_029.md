@@ -39,7 +39,7 @@ print(b)
 
 ## Proof of work ##
 
-<img width="441" alt="Screenshot 2023-11-23 at 9 01 53" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/f1a8d4be-31da-4336-bdcc-d4a0c1934d81">
+<img width="1002" alt="Screenshot 2023-11-30 at 9 42 06" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/801ab4cb-b1fd-45bc-b765-ac63b245173d">
 
 ## Part B ##
 
