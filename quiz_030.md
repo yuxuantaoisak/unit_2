@@ -38,6 +38,3 @@ plt.show()
 ```.py
 
 
-## Proof of work ##
-
-![Screenshot 2023-12-04 at 23 35 27](https://github.com/yuxuantaoisak/unit_2/assets/144768397/9656b1e5-ad72-4507-8c6e-4f112c7bb6cb)
