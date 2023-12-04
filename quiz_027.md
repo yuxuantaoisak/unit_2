@@ -30,4 +30,4 @@ print(case_1(c, d))
 
 ## Part B ##
 
-64 colors
+2^6 = 64 colors
