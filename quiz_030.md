@@ -1,6 +1,6 @@
 ## Solution ##
 
-```
+```.py
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
@@ -35,6 +35,10 @@ plt.plot(x_lin, y_lin, color="red")
 plt.show()
 
 
-```.py
+```
+
+## Proof of work ##
+
+![Screenshot 2023-12-04 at 23 35 27](https://github.com/yuxuantaoisak/unit_2/assets/144768397/88bb5424-9c37-4327-a891-ff234b3a9021)
 
 
