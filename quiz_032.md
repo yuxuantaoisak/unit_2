@@ -42,4 +42,5 @@ plt.show()
 
 ## Proof of work ##
 
-<img width="1470" alt="Screenshot 2023-12-05 at 15 02 16" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/c588d355-2a8d-4e18-b0f0-26e172b8d1ed">
+<img width="1363" alt="Screenshot 2023-12-05 at 22 38 20" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/c6a06652-f7e0-41a6-a7e1-31878ebae8d9">
+
