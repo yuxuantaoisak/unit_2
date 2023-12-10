@@ -1,6 +1,8 @@
 ## Solution ##
 
 ```.py
+
+
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
@@ -20,7 +22,7 @@ for i in range(1, len(x)):
         x_new.append(x[i])
         y_new.append(y[i])
 
-plt.plot(x_new, y_new, color="black")
+plt.plot(x_new, y_new, color="red")
 plt.title("sensor 2")
 
 m, b = np.polyfit(x_new, y_new, 1)
@@ -31,7 +33,7 @@ for i in range(200, 400):
     y_lin.append(m*i + b)
 
 print(f"The linear model is f(t) = {m:.2f}t + {b:.2f}")
-plt.plot(x_lin, y_lin, color="red")
+plt.plot(x_lin, y_lin, color="black")
 plt.show()
 
 
@@ -39,6 +41,6 @@ plt.show()
 
 ## Proof of work ##
 
-![Screenshot 2023-12-04 at 23 35 27](https://github.com/yuxuantaoisak/unit_2/assets/144768397/88bb5424-9c37-4327-a891-ff234b3a9021)
+<img width="1470" alt="Screenshot 2023-12-11 at 1 16 37" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/267cd687-58c9-4956-9fc7-690a032d9257">
 
 
