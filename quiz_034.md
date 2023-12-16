@@ -2,6 +2,7 @@
 
 ```.py
 
+
 import matplotlib
 import matplotlib.pyplot as plt
 
@@ -29,16 +30,21 @@ for i in range(len(para_1_y)):
     neg_1.append(para_1_y[i]*-1)
     neg_2.append(para_2_y[i]*-1)
 
-plt.plot(para_1_x, para_1_y)
-plt.plot(para_2_x, para_2_y)
-plt.plot(para_1_x, neg_1)
-plt.plot(para_2_x, neg_2)
+plt.plot(para_1_x, para_1_y, label="parabola 1")
+plt.plot(para_2_x, para_2_y, label="parabola 2")
+plt.plot(para_1_x, neg_1, label="parabola 3")
+plt.plot(para_2_x, neg_2, label="parabola 4")
+plt.xlabel("x axis")
+plt.ylabel("y axis")
+plt.legend()
 plt.show()
+
 
 
 ```
 
 ## Proof of work ##
 
+<img width="1267" alt="Screenshot 2023-12-16 at 10 59 13" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/3f8382a6-b559-46ec-a713-74b38bb28b76">
 
-<img width="1069" alt="Screenshot 2023-12-16 at 10 51 20" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/0a103a72-5e46-4446-9640-879bd6c48c67">
+
