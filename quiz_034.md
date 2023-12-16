@@ -39,3 +39,6 @@ plt.show()
 ```
 
 ## Proof of work ##
+
+
+<img width="1069" alt="Screenshot 2023-12-16 at 10 51 20" src="https://github.com/yuxuantaoisak/unit_2/assets/144768397/0a103a72-5e46-4446-9640-879bd6c48c67">
